@@ -3,5 +3,10 @@
         "name": "BLOODMONEY!",
         "slug": "bloodmoney",
         "image": "/cache/data/image/game/bloodmoney/bloodmoney-m186x186.webp"
+    },
+    {
+        "name": "Grow a Garden",
+        "slug": "grow-a-garden",
+        "image": "/cache/data/image/no_image-m186x186.webp"
     }
 ]
